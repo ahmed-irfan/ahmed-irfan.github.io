@@ -19,4 +19,4 @@ I recieved my PhD in May 2018 from University of Trento, under the supervision o
 * PC Member of [SC2 2020](http://www.sc-square.org/CSA/workshop5.html)
 * PC Member of [TACAS-AE 2020](https://www.etaps.org/2020/tacas)
 
-## Softwares
+## Software
