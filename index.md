@@ -2,9 +2,14 @@
 
 ## About 
 
-I am a Postdoc Researcher in Clark Barrett's Group at Stanford University since May 2019. 
-Previously, I was a Postdoc Researcher at Fondazione Bruno Kessler, Embedded Systems Unit, led by Alessandro Cimatti.
-I recieved my PhD in May 2018 from University of Trento, under the supervision of Alessandro Cimatti, Roberto Sebastiani, and Alberto Griggio.
+I am a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
+at [Stanford University](https://www.stanford.edu/) since May 2019. 
+Previously, I was a Postdoc Researcher at [Fondazione Bruno Kessler](https://www.fbk.eu),
+(Embedded Systems Unit)[https://es.fbk.eu], led by [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/).
+I recieved my PhD in May 2018 from [University of Trento](https://www.unitn.it/),
+under the supervision of [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/),
+[Roberto Sebastiani](http://disi.unitn.it/rseba/),
+and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Research Interests
 * SAT and SAT modulo theories (SMT)
