@@ -1,4 +1,3 @@
-# Ahmed Irfan
 
 ## About 
 
