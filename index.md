@@ -18,6 +18,8 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Publications
 
+## Competitions
+
 ## Professional Activities
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
 * PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
