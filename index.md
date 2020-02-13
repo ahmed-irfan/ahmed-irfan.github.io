@@ -12,7 +12,9 @@ under the supervision of [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/)
 and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Research Interests
+* Automated Reasoning
 * SAT and SAT modulo theories (SMT)
+* Formal Methods
 * Model Checking
 * Neural Networks Verification
 
