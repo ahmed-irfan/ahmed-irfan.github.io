@@ -10,6 +10,7 @@ under the supervision of [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/)
 [Roberto Sebastiani](http://disi.unitn.it/rseba/),
 and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
+
 ## Research Interests
 * Automated Reasoning
 * SAT and SAT modulo theories (SMT)
@@ -17,15 +18,20 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 * Model Checking
 * Neural Networks Verification
 
+
 ## Publications
+
 
 ## Competitions
 
+
 ## Professional Activities
+
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
 * PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
 * PC Member of [PAAR 2020](http://paar2020.gforge.inria.fr/)
 * PC Member of [SC2 2020](http://www.sc-square.org/CSA/workshop5.html)
 * PC Member of [TACAS-AE 2020](https://www.etaps.org/2020/tacas)
+
 
 ## Software
