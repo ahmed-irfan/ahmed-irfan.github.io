@@ -38,6 +38,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 * [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
 * [cosa2](https://github.com/upscale-project/cosa2): A symoblic model checker
+* [prophic3](https://github.com/makaimann/prophic3): Counterexample guided prophecy for model checking transition systems with arrays
 * [MathSAT5](https://mathsat.fbk.eu/): An SMT Solver
 * [CVC4](https://cvc4.github.io/): An SMT Solver
 * [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
