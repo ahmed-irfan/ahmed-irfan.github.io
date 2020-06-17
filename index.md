@@ -35,3 +35,13 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 
 ## Software
+
+* [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
+* [cosa2](https://github.com/upscale-project/cosa2): A symoblic model checker
+* [MathSAT5](https://mathsat.fbk.eu/): An SMT Solver
+* [CVC4](https://cvc4.github.io/): An SMT Solver
+* [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
+* [Verilog2SMV](https://es.fbk.eu/tools/verilog2smv): A translator for Verilog programs to SMV
+* Simulink2SMV: A translator for Simulink designs to SMV
+* [Pcassco](http://tools.computational-logic.org/content/riss.php): A parallel SAT solver
+
