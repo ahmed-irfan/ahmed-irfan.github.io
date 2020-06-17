@@ -39,8 +39,10 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 * [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
 * [cosa2](https://github.com/upscale-project/cosa2): A symoblic model checker
 * [prophic3](https://github.com/makaimann/prophic3): Counterexample guided prophecy for model checking transition systems with arrays
-* [MathSAT5](https://mathsat.fbk.eu/): An SMT Solver
-* [CVC4](https://cvc4.github.io/): An SMT Solver
+* [MathSAT5](https://mathsat.fbk.eu/): An SMT solver
+* [CVC4](https://cvc4.github.io/): An SMT solver
+* [LazyBV2Int](https://github.com/yoni206/lazybv2int): An SMT solver for Bit-Vectors
+* [Marabou](https://github.com/NeuralNetworkVerification/Marabou): A neural network verfication tool
 * [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
 * [Verilog2SMV](https://es.fbk.eu/tools/verilog2smv): A translator for Verilog programs to SMV
 * Simulink2SMV: A translator for Simulink designs to SMV
