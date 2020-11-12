@@ -28,3 +28,6 @@
 
 * Alessandro Cimatti, Ahmed Irfan, Alberto Griggio, Marco Roveri, Roberto Sebastiani. **A CEGAR-based Approach for Proving Invariant Properties of Transition Systems on Non-Linear Real Arithmetic**. Workshop on Satisfiability Checking and Symbolic Computation (SC2), 2016.
 
+   
+   
+[Back to Homepage](https://ahmed-irfan.github.io)
