@@ -20,6 +20,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 
 ## Publications
+[List of publications](https://ahmed-irfan.github.io/publications)
 
 
 ## Competitions
