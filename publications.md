@@ -1,3 +1,7 @@
+[Link to Thesis](https://ahmed-irfan.github.io/thesis)
+
+
+
 ## Papers in Journals
 
 * Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Marco Roveri, Roberto Sebastiani. **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. ACM Transactions on Computational Logic (TOCL), 2018. [PDF](https://ahmed-irfan.github.io/papers/tocl18.pdf)
