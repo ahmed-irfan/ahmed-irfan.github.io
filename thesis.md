@@ -1,6 +1,6 @@
 ## Ph.D. 
 
-* **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. University of Trento and Fondazione Bruno Kessler, 2018. 
+* **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. University of Trento and Fondazione Bruno Kessler, 2018. [PDF](https://ahmed-irfan.github.io/papers/thesis.pdf)
 
 
 ## Masters
