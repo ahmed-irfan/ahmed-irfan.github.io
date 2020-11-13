@@ -8,3 +8,7 @@
 * **State-of-the-Art Cooperative Parallel SAT Solving**. Technische Universitat Dresden, 2013.
 
 * **Search Space Partitioning with Lookahead**. Technische Universitat Dresden, 2012.
+
+
+
+[Back to Homepage](https://ahmed-irfan.github.io)
