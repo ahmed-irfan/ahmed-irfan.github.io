@@ -9,7 +9,7 @@
 
 ## Conference Papers
 
-* Ahmed Irfan, Kyle D. Julian, Haoze Wu, Clark Barrett, Mykel J. Kochenderfer, Baoluo Meng, James Lopez. **Towards Verification of Neural Networks for Small Unmanned Aircraft Collision Avoidance**. Digital Avionics Systems Conference (DASC), 2020. [PDF](https://ahmed-irfan.github.io/papers/dasc20.pdf) [Slides](ttps://ahmed-irfan.github.io/papers/dasc20-slides.pdf)
+* Ahmed Irfan, Kyle D. Julian, Haoze Wu, Clark Barrett, Mykel J. Kochenderfer, Baoluo Meng, James Lopez. **Towards Verification of Neural Networks for Small Unmanned Aircraft Collision Avoidance**. Digital Avionics Systems Conference (DASC), 2020. [PDF](https://ahmed-irfan.github.io/papers/dasc20.pdf) [Slides](https://ahmed-irfan.github.io/papers/dasc20-slides.pdf)
 
 * Haoze Wu, Alex Ozdemir, Aleksandar Zeljic, Kyle D. Julian, Ahmed Irfan, Divya Gopinath, Sadjad Fouladi, Guy Katz, Corina Pasareanu, Clark Barrett. **Parallelization Techniques for Verifying Neural Networks**. Formal Methods in Computer-Aided Design (FMCAD), 2020. [PDF](https://arxiv.org/abs/2004.08440)
 
