@@ -9,6 +9,8 @@
 
 ## Conference Papers
 
+* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. International Conference on Tools and Algorithms for the Construction and Analysis of Systesms (TACAS), 2021. [To Appear](https://etaps.org/user-profile/archive/51-etaps-2021/450-tacas-2021-accepted-papers)
+
 * Ahmed Irfan, Kyle D. Julian, Haoze Wu, Clark Barrett, Mykel J. Kochenderfer, Baoluo Meng, James Lopez. **Towards Verification of Neural Networks for Small Unmanned Aircraft Collision Avoidance**. Digital Avionics Systems Conference (DASC), 2020. [PDF](https://ahmed-irfan.github.io/papers/dasc20.pdf) [Slides](https://ahmed-irfan.github.io/papers/dasc20-slides.pdf)
 
 * Haoze Wu, Alex Ozdemir, Aleksandar Zeljic, Kyle D. Julian, Ahmed Irfan, Divya Gopinath, Sadjad Fouladi, Guy Katz, Corina Pasareanu, Clark Barrett. **Parallelization Techniques for Verifying Neural Networks**. Formal Methods in Computer-Aided Design (FMCAD), 2020. [PDF](https://arxiv.org/abs/2004.08440)
