@@ -30,9 +30,9 @@
 
 * Ahmed Irfan, Alessandro Cimatti, Alberto Griggio, Marco Roveri, Roberto Sebastiani. **Lemmas for Satisfiability Modulo Transcendental Functions via Incremental Linearization. International**. Workshop on Satisfiability Checking and Symbolic Computation (SC2), 2019. [PDF](https://ahmed-irfan.github.io/papers/scsc19.pdf)
 
-* Ahmed Irfan, Davide Lanti, Norbert Manthey. **Modern Cooperative Parallel SAT Solving**. International Workshop on Pragmatics of SAT, 2013. [PDF](https://ahmed-irfan.github.io/papers/pos13.pdf)
-
 * Alessandro Cimatti, Ahmed Irfan, Alberto Griggio, Marco Roveri, Roberto Sebastiani. **A CEGAR-based Approach for Proving Invariant Properties of Transition Systems on Non-Linear Real Arithmetic**. Workshop on Satisfiability Checking and Symbolic Computation (SC2), 2016. [PDF](https://ahmed-irfan.github.io/papers/scsc16.pdf)
+
+* Ahmed Irfan, Davide Lanti, Norbert Manthey. **Modern Cooperative Parallel SAT Solving**. International Workshop on Pragmatics of SAT, 2013. [PDF](https://ahmed-irfan.github.io/papers/pos13.pdf)
 
    
    
