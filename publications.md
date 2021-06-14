@@ -7,7 +7,13 @@
 
 ## Conference Papers
 
-* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. International Conference on Tools and Algorithms for the Construction and Analysis of Systesms (TACAS), 2021 (To Appear). [PDF](https://arxiv.org/pdf/2101.06825.pdf)
+* Makai Mann, Amalee Wilson, Yoni Zohar, Lindsey Stuntz, Ahmed Irfan, Kristopher Brown, Caleb Donovick, Allison Guman, Cesare Tinelli and Clark Barrett. **Smt-Switch: a Solver-agnostic C++ API for SMT Solving**. International Conference on Theory and Applications of Satisfiability Testing (SAT), 2021.
+
+* Makai Mann, Ahmed Irfan, Florian Lonsing, Yahan Yang, Hongce Zhang, Kristopher Brown, Aarti Gupta and Clark Barrett. **Pono:  a Flexible and Extensible SMT-based Model Checker**. International Conference on Computer-Aided Verification (CAV), 2021.
+
+* Sergio Mover, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, and Stefano Tonetta. **Implicit Semi-Algebraic Abstraction for Polynomial Dynamical Systems**. International Conference on Computer-Aided Verification (CAV), 2021.
+
+* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. International Conference on Tools and Algorithms for the Construction and Analysis of Systesms (TACAS), 2021. [PDF](https://arxiv.org/pdf/2101.06825.pdf)
 
 * Ahmed Irfan, Kyle D. Julian, Haoze Wu, Clark Barrett, Mykel J. Kochenderfer, Baoluo Meng, James Lopez. **Towards Verification of Neural Networks for Small Unmanned Aircraft Collision Avoidance**. Digital Avionics Systems Conference (DASC), 2020. [PDF](https://ahmed-irfan.github.io/papers/dasc20.pdf) [Slides](https://ahmed-irfan.github.io/papers/dasc20-slides.pdf)
 
