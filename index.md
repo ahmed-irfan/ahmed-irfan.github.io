@@ -1,9 +1,9 @@
 
 ## About 
 
-I am a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
-at [Stanford University](https://www.stanford.edu/) since May 2019. 
-Previously, I was a Postdoc Researcher at [Fondazione Bruno Kessler](https://www.fbk.eu),
+I am an Applied Scientist at Amazon Web Services. Previously, I was a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
+at [Stanford University](https://www.stanford.edu/). 
+Before that, I was a Postdoc Researcher at [Fondazione Bruno Kessler](https://www.fbk.eu),
 [Embedded Systems Unit](https://es.fbk.eu), led by [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/).
 I recieved my PhD in May 2018 from [University of Trento](https://www.unitn.it/),
 under the supervision of [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/),
