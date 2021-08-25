@@ -7,6 +7,8 @@
 
 ## Conference Papers
 
+* Filippo Bigarella, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Martin Jonas, Marco Roveri, Roberto Sebastiani and Patrick Trentin. **Optimization Modulo Non-Linear Arithmetic via Incremental Linearization**. International Symposium on Frontiers of Combining Systems (FroCoS), 2021.
+
 * Makai Mann, Amalee Wilson, Yoni Zohar, Lindsey Stuntz, Ahmed Irfan, Kristopher Brown, Caleb Donovick, Allison Guman, Cesare Tinelli and Clark Barrett. **Smt-Switch: a Solver-agnostic C++ API for SMT Solving**. International Conference on Theory and Applications of Satisfiability Testing (SAT), 2021.
 
 * Makai Mann, Ahmed Irfan, Florian Lonsing, Yahan Yang, Hongce Zhang, Kristopher Brown, Aarti Gupta and Clark Barrett. **Pono:  a Flexible and Extensible SMT-based Model Checker**. International Conference on Computer-Aided Verification (CAV), 2021.
