@@ -7,6 +7,8 @@
 
 ## Conference Papers
 
+* Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022.
+
 * Filippo Bigarella, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Martin Jonas, Marco Roveri, Roberto Sebastiani and Patrick Trentin. **Optimization Modulo Non-Linear Arithmetic via Incremental Linearization**. International Symposium on Frontiers of Combining Systems (FroCoS), 2021.
 
 * Makai Mann, Amalee Wilson, Yoni Zohar, Lindsey Stuntz, Ahmed Irfan, Kristopher Brown, Caleb Donovick, Allison Guman, Cesare Tinelli and Clark Barrett. **Smt-Switch: a Solver-agnostic C++ API for SMT Solving**. International Conference on Theory and Applications of Satisfiability Testing (SAT), 2021.
