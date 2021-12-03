@@ -7,7 +7,7 @@
 
 ## Conference Papers
 
-* Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022. [PDF](https://ahmed-irfan.github.io/papers/vmcai21.pdf)
+* Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022. [PDF](https://ahmed-irfan.github.io/papers/vmcai22.pdf)
 
 * Filippo Bigarella, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Martin Jonas, Marco Roveri, Roberto Sebastiani and Patrick Trentin. **Optimization Modulo Non-Linear Arithmetic via Incremental Linearization**. International Symposium on Frontiers of Combining Systems (FroCoS), 2021. [PDF](https://ahmed-irfan.github.io/papers/frocos21.pdf)
 
