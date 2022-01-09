@@ -29,10 +29,15 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 * CVC4 at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
 * ic3ia at the [CHC-COMP 2020](https://chc-comp.github.io/2020/)
+* lazybv2int at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
 * Pono at the [Hardware Model Checking Competition 2020](http://fmv.jku.at/hwmcc20/)
 * Prophic3 at the [CHC-COMP 2020](https://chc-comp.github.io/2020/)
 * Cosa2 at the [Hardware Model Checking Competition 2019](http://fmv.jku.at/hwmcc19/)
-* MathSAT5 at the [SMT-COMP 2019](https://smt-comp.github.io/2019/)
+* MathSAT5 at the [SMT-COMP 2019](https://smt-comp.github.io/2019/)'
+* CLAS at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
+* Pcassco at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
+* Pcassco at the [SAT Competition 2013](http://www.satcompetition.org/2013/)
+
 
 
 ## Professional Activities
