@@ -2,6 +2,8 @@
 
 ## Papers in Journals
 
+* Chelsea Sidrane, Amir Maleki, Ahmed Irfan and Mykel J. Kochenderfer. **OVERT: An Algorithm for Safety Verification of Neural Network Control Policies for Nonlinear Systems**. The Journal of Machine Learning Research (JMLR), 2022 (To Appear).
+
 * Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Marco Roveri, Roberto Sebastiani. **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. ACM Transactions on Computational Logic (TOCL), 2018. [PDF](https://ahmed-irfan.github.io/papers/tocl18.pdf)
 
 
