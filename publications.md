@@ -2,12 +2,14 @@
 
 ## Papers in Journals
 
-* Chelsea Sidrane, Amir Maleki, Ahmed Irfan and Mykel J. Kochenderfer. **OVERT: An Algorithm for Safety Verification of Neural Network Control Policies for Nonlinear Systems**. The Journal of Machine Learning Research (JMLR), 2022 (To Appear).
+* Chelsea Sidrane, Amir Maleki, Ahmed Irfan and Mykel J. Kochenderfer. **OVERT: An Algorithm for Safety Verification of Neural Network Control Policies for Nonlinear Systems**. The Journal of Machine Learning Research (JMLR), 2022. [PDF](https://jmlr.org/papers/volume23/21-0847/21-0847.pdf)
 
 * Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Marco Roveri, Roberto Sebastiani. **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. ACM Transactions on Computational Logic (TOCL), 2018. [PDF](https://ahmed-irfan.github.io/papers/tocl18.pdf)
 
 
 ## Conference Papers
+
+* Ahmed Irfan, Sorawee Proncharoenwase, Zvonimir Rakamaric, Neha Rungta and Emina Torlak. **Testing Dafny (Experience Paper)**. International Symposium on Software Testing and Analysis (ISSTA), 2022. (To Appear).
 
 * Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022. [PDF](https://ahmed-irfan.github.io/papers/vmcai22.pdf)
 
