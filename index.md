@@ -42,6 +42,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Professional Activities
 
+* PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
 * PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
 * PC Member of [PAAR 2020](http://paar2020.gforge.inria.fr/)
