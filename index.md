@@ -25,6 +25,16 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 [Thesis](https://ahmed-irfan.github.io/thesis)
 
 
+## Professional Activities
+
+* PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
+* Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
+* PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
+* PC Member of [PAAR 2020](http://paar2020.gforge.inria.fr/)
+* PC Member of [SC2 2020](http://www.sc-square.org/CSA/workshop5.html)
+* PC Member of [TACAS-AE 2020](https://www.etaps.org/2020/tacas)
+
+
 ## Competitions
 
 * CVC4 at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
@@ -37,17 +47,6 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 * CLAS at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
 * Pcassco at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
 * Pcassco at the [SAT Competition 2013](http://www.satcompetition.org/2013/)
-
-
-
-## Professional Activities
-
-* PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
-* Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
-* PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
-* PC Member of [PAAR 2020](http://paar2020.gforge.inria.fr/)
-* PC Member of [SC2 2020](http://www.sc-square.org/CSA/workshop5.html)
-* PC Member of [TACAS-AE 2020](https://www.etaps.org/2020/tacas)
 
 
 ## Software
