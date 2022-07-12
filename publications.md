@@ -9,7 +9,7 @@
 
 ## Conference Papers
 
-* Ahmed Irfan, Sorawee Proncharoenwase, Zvonimir Rakamaric, Neha Rungta and Emina Torlak. **Testing Dafny (Experience Paper)**. International Symposium on Software Testing and Analysis (ISSTA), 2022. [PDF]([To Appear](https://ahmed-irfan.github.io/papers/issta22.pdf)).
+* Ahmed Irfan, Sorawee Proncharoenwase, Zvonimir Rakamaric, Neha Rungta and Emina Torlak. **Testing Dafny (Experience Paper)**. International Symposium on Software Testing and Analysis (ISSTA), 2022. [PDF](https://ahmed-irfan.github.io/papers/issta22.pdf).
 
 * Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022. [PDF](https://ahmed-irfan.github.io/papers/vmcai22.pdf)
 
