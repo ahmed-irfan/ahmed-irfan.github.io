@@ -49,17 +49,16 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 * Pcassco at the [SAT Competition 2013](http://www.satcompetition.org/2013/)
 
 
-## Software
+## Software Contributions
 
-* [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
-* [Pono](https://github.com/upscale-project/pono): A symoblic model checker
-* [prophic3](https://github.com/makaimann/prophic3): Counterexample guided prophecy for model checking transition systems with arrays
-* [MathSAT5](https://mathsat.fbk.eu/): An SMT solver
 * [CVC4](https://cvc4.github.io/): An SMT solver
+* [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
 * [LazyBV2Int](https://github.com/yoni206/lazybv2int): An SMT solver for Bit-Vectors
 * [Marabou](https://github.com/NeuralNetworkVerification/Marabou): A neural network verfication tool
-* [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
-* [Verilog2SMV](https://es.fbk.eu/tools/verilog2smv): A translator for Verilog programs to SMV
-* Simulink2SMV: A translator for Simulink designs to SMV
+* [MathSAT5](https://mathsat.fbk.eu/): An SMT solver
+* [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
 * [Pcassco](http://tools.computational-logic.org/content/riss.php): A parallel SAT solver
-
+* [Pono](https://github.com/upscale-project/pono): A symbolic model checker
+* [prophic3](https://github.com/makaimann/prophic3): Counterexample guided prophecy for model checking transition systems with arrays
+* Simulink2SMV: A translator for Simulink designs to SMV
+* [Verilog2SMV](https://es.fbk.eu/tools/verilog2smv): A translator for Verilog programs to SMV
