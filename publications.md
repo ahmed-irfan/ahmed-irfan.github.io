@@ -2,6 +2,9 @@
 
 ## Papers in Journals
 
+* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. Logical Methods in Computer Science (LMCS), 2022. (To Appear)
+
+
 * Chelsea Sidrane, Amir Maleki, Ahmed Irfan and Mykel J. Kochenderfer. **OVERT: An Algorithm for Safety Verification of Neural Network Control Policies for Nonlinear Systems**. The Journal of Machine Learning Research (JMLR), 2022. [PDF](https://jmlr.org/papers/volume23/21-0847/21-0847.pdf)
 
 * Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, Marco Roveri, Roberto Sebastiani. **Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions**. ACM Transactions on Computational Logic (TOCL), 2018. [PDF](https://ahmed-irfan.github.io/papers/tocl18.pdf)
