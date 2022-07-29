@@ -23,7 +23,7 @@
 
 * Sergio Mover, Alessandro Cimatti, Alberto Griggio, Ahmed Irfan, and Stefano Tonetta. **Implicit Semi-Algebraic Abstraction for Polynomial Dynamical Systems**. International Conference on Computer-Aided Verification (CAV), 2021. [PDF](https://ahmed-irfan.github.io/papers/cav21a.pdf)
 
-* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. International Conference on Tools and Algorithms for the Construction and Analysis of Systesms (TACAS), 2021. [PDF](https://ahmed-irfan.github.io/papers/tacas21.pdf)
+* Makai Mann, Ahmed Irfan, Alberto Griggio, Oded Padon, Clark Barrett. **Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays**. International Conference on Tools and Algorithms for the Construction and Analysis of Systesms (TACAS), 2021. [PDF](https://ahmed-irfan.github.io/papers/tacas21.pdf) [Artifact](https://figshare.com/articles/software/TACAS_2021_Artifact/13619096)
 
 * Ahmed Irfan, Kyle D. Julian, Haoze Wu, Clark Barrett, Mykel J. Kochenderfer, Baoluo Meng, James Lopez. **Towards Verification of Neural Networks for Small Unmanned Aircraft Collision Avoidance**. Digital Avionics Systems Conference (DASC), 2020. [PDF](https://ahmed-irfan.github.io/papers/dasc20.pdf) [Slides](https://ahmed-irfan.github.io/papers/dasc20-slides.pdf)
 
