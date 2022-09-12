@@ -1,7 +1,9 @@
 
 ## About 
 
-I am an Applied Scientist at Amazon Web Services since April 2021. From May 2019 to April 2021, I was a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
+I am a Computer Scientist at SRI Internationl since September 2022. 
+Earlier, I was an Applied Scientist at Amazon Web Services from April 2021 to September 2022. 
+From May 2019 to April 2021, I was a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
 at [Stanford University](https://www.stanford.edu/). 
 Before that, I was a Postdoc Researcher at [Fondazione Bruno Kessler](https://www.fbk.eu),
 [Embedded Systems Unit](https://es.fbk.eu), led by [Alessandro Cimatti](https://es.fbk.eu/people/cimatti/).
