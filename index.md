@@ -29,6 +29,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Professional Activities
 
+* PC Member of [TACAS-AE 2023](https://tacas.info/artifacts-23.php)
 * PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
 * PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
