@@ -27,8 +27,9 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 [Thesis](https://ahmed-irfan.github.io/thesis)
 
 
-## Professional Activities
+## Academic Service
 
+* PC Member of [VSTTE 2023]
 * PC Member of [TACAS-AE 2023](https://tacas.info/artifacts-23.php)
 * PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
