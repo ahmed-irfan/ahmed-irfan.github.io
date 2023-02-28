@@ -1,7 +1,7 @@
 
 ## About 
 
-I am a Computer Scientist at SRI Internationl since September 2022. 
+I am a Computer Scientist at SRI International since September 2022. 
 Earlier, I was an Applied Scientist at Amazon Web Services from April 2021 to September 2022. 
 From May 2019 to April 2021, I was a Postdoc Researcher in [Clark Barrett](https://theory.stanford.edu/~barrett/)'s Group
 at [Stanford University](https://www.stanford.edu/). 
