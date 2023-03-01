@@ -29,6 +29,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Academic Service
 
+* PC Member of [SMT 2023](https://smt-workshop.cs.uiowa.edu/2023/index.shtml)
 * PC Member of VSTTE 2023
 * PC Member of [TACAS-AE 2023](https://tacas.info/artifacts-23.php)
 * PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
