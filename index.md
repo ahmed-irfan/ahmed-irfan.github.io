@@ -29,7 +29,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Current Projects
 
-* [Yices](https://yices.csl.sri.com): An SMT solver
+* [Yices2](https://yices.csl.sri.com): An SMT solver
 
 
 ## Past Projects
