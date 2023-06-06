@@ -29,6 +29,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Current Projects
 
+* [BTOR2YICES](https://github.com/ahmed-irfan/btor2yices)
 * [Yices2](https://yices.csl.sri.com): An SMT solver
 
 
