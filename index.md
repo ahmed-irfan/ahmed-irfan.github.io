@@ -64,6 +64,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Competitions
 
+* Yices2 at the [SMT-COMP 2020](https://smt-comp.github.io/2023/)
 * CVC4 at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
 * ic3ia at the [CHC-COMP 2020](https://chc-comp.github.io/2020/)
 * lazybv2int at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
