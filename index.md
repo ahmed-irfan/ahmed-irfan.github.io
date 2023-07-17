@@ -50,9 +50,9 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Academic Service
 
-* PC Member of SBMF 2023
+* PC Member of [SBMF 2023](https://sbmf23.ufam.edu.br)
 * PC Member of [SMT 2023](https://smt-workshop.cs.uiowa.edu/2023/index.shtml)
-* PC Member of VSTTE 2023
+* PC Member of [VSTTE 2023](https://homepage.cs.uiowa.edu/~ajreynol/VSTTE2023/)
 * PC Member of [TACAS-AE 2023](https://tacas.info/artifacts-23.php)
 * PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
 * Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
