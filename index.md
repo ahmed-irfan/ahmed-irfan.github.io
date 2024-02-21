@@ -50,6 +50,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 
 ## Academic Service
 
+* PC Member of [SMT 2024](http://smt-workshop.cs.uiowa.edu/2024/index.shtml)
 * PC Member of [FM 2024](https://www.fm24.polimi.it)
 * PC Member of [FMCAD 2024](https://fmcad.org/FMCAD24/)
 * PC Member of [SBMF 2023](https://sbmf23.ufam.edu.br)
