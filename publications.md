@@ -11,6 +11,8 @@
 
 ## Conference Papers
 
+* Kristin Yvonne Rozier, Rohit Dureja, Ahmed Irfan, Chris Johannsen, Karthik Nukala, Natarajan Shankar, Cesare Tinelli and Moshe Y. Vardi. **MoXI: An Intermediate Language for Symbolic Model Checking**. International Symposium on Model Checking Software (SPIN), 2024. [PDF](https://ahmed-irfan.github.io/papers/spin24.pdf).
+
 * Ahmed Irfan, Sorawee Proncharoenwase, Zvonimir Rakamaric, Neha Rungta and Emina Torlak. **Testing Dafny (Experience Paper)**. International Symposium on Software Testing and Analysis (ISSTA), 2022. [PDF](https://ahmed-irfan.github.io/papers/issta22.pdf).
 
 * Yoni Zohar, Ahmed Irfan, Makai Mann, Aina Niemetz, Andres Noetzli, Mathias Preiner, Andrew Reynolds, Clark Barrett and Cesare Tinelli. **Bit-Precise Reasoning via Int-Blasting**. International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2022. [PDF](https://ahmed-irfan.github.io/papers/vmcai22.pdf)
