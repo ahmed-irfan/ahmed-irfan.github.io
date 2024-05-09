@@ -11,6 +11,8 @@
 
 ## Conference Papers
 
+* Thomas Hader, Daniela Kaufmann, Ahmed Irfan, Stephane Graham-Lengrand and L. Kovacs. **MCSat-based Finite Field Reasoning in the Yices2 SMT Solver**. International Joint Conference on Automated Reasoning (IJCAR), 2024. [PDF](https://arxiv.org/pdf/2402.17927)
+
 * Kristin Yvonne Rozier, Rohit Dureja, Ahmed Irfan, Chris Johannsen, Karthik Nukala, Natarajan Shankar, Cesare Tinelli and Moshe Y. Vardi. **MoXI: An Intermediate Language for Symbolic Model Checking**. International Symposium on Model Checking Software (SPIN), 2024. [PDF](https://ahmed-irfan.github.io/papers/spin24.pdf)
 
 * Ahmed Irfan, Sorawee Proncharoenwase, Zvonimir Rakamaric, Neha Rungta and Emina Torlak. **Testing Dafny (Experience Paper)**. International Symposium on Software Testing and Analysis (ISSTA), 2022. [PDF](https://ahmed-irfan.github.io/papers/issta22.pdf)
