@@ -11,6 +11,8 @@
 
 ## Conference Papers
 
+* Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi and Kristin Yvonne Rozier. **The MoXI Model Exchange Tool Suite**. International Conference on Computer-Aided Verification (CAV), 2024. [PDF](https://ahmed-irfan.github.io/papers/cav24.pdf)
+
 * Thomas Hader, Daniela Kaufmann, Ahmed Irfan, Stephane Graham-Lengrand and L. Kovacs. **MCSat-based Finite Field Reasoning in the Yices2 SMT Solver**. International Joint Conference on Automated Reasoning (IJCAR), 2024. [PDF](https://arxiv.org/pdf/2402.17927)
 
 * Kristin Yvonne Rozier, Rohit Dureja, Ahmed Irfan, Chris Johannsen, Karthik Nukala, Natarajan Shankar, Cesare Tinelli and Moshe Y. Vardi. **MoXI: An Intermediate Language for Symbolic Model Checking**. International Symposium on Model Checking Software (SPIN), 2024. [PDF](https://ahmed-irfan.github.io/papers/spin24.pdf)
