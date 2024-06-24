@@ -11,8 +11,6 @@
 
 ## Conference Papers
 
-* Ahmed Irfan and Stephane Graham-Lengrand. **Arrays Reasoning in MCSat**. International Workshop on Satisfiability Modulo Theories (SMT), 2024. [PDF](https://ahmed-irfan.github.io/papers/smt24.pdf)
-
 * Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi and Kristin Yvonne Rozier. **The MoXI Model Exchange Tool Suite**. International Conference on Computer-Aided Verification (CAV), 2024. [PDF](https://ahmed-irfan.github.io/papers/cav24.pdf)
 
 * Thomas Hader, Daniela Kaufmann, Ahmed Irfan, Stephane Graham-Lengrand and L. Kovacs. **MCSat-based Finite Field Reasoning in the Yices2 SMT Solver**. International Joint Conference on Automated Reasoning (IJCAR), 2024. [PDF](https://arxiv.org/pdf/2402.17927)
@@ -49,6 +47,8 @@
 
 
 ## Workshop Papers
+
+* Ahmed Irfan and Stephane Graham-Lengrand. **Arrays Reasoning in MCSat**. International Workshop on Satisfiability Modulo Theories (SMT), 2024. [PDF](https://ahmed-irfan.github.io/papers/smt24.pdf)
 
 * Ahmed Irfan, Alessandro Cimatti, Alberto Griggio, Marco Roveri, Roberto Sebastiani. **Lemmas for Satisfiability Modulo Transcendental Functions via Incremental Linearization. International**. Workshop on Satisfiability Checking and Symbolic Computation (SC2), 2019. [PDF](https://ahmed-irfan.github.io/papers/scsc19.pdf)
 
