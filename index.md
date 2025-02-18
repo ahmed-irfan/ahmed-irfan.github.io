@@ -51,6 +51,7 @@ and [Alberto Griggio](https://es.fbk.eu/people/griggio/).
 ## Academic Service
 
 * Co-Chair of [FMCAD 2025](https://fmcad.forsyte.at/FMCAD25/)
+* PC Member of [ECAI 2025](https://ecai2025.org)
 * PC Member of [SPIN 2025](https://spin-web.github.io/SPIN2025/)
 * PC Member of [SBMF 2024](http://sbmf24.ifes.edu.br)
 * PC Member of [SMT 2024](http://smt-workshop.cs.uiowa.edu/2024/index.shtml)
