@@ -11,6 +11,10 @@
 
 ## Papers in Conference & Workshop
 
+* Enrico Lipparini, Thomas Hader, Ahmed Irfan and Stephane Graham-Lengrand. **Boosting MCSat Modulo Nonlinear Integer Arithmetic via Local Search** (to appear). International Conference on Automated Deduction (CADE), 2025. [PDF](https://ahmed-irfan.github.io/papers/cade25.pdf)
+
+* Thomas Hader, Ahmed Irfan and Stephane Graham-Lengrand. **Decision Heuristics in MCSat** (to appear). International Conference on Computer-Aided Verification (CAV), 2025. [PDF](https://ahmed-irfan.github.io/papers/cav25.pdf)
+  
 * Ahmed Irfan and Stephane Graham-Lengrand. **Arrays Reasoning in MCSat**. International Workshop on Satisfiability Modulo Theories (SMT), 2024. [PDF](https://ahmed-irfan.github.io/papers/smt24.pdf)
 
 * Chris Johannsen, Karthik Nukala, Rohit Dureja, Ahmed Irfan, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi and Kristin Yvonne Rozier. **The MoXI Model Exchange Tool Suite**. International Conference on Computer-Aided Verification (CAV), 2024. [PDF](https://ahmed-irfan.github.io/papers/cav24.pdf)
