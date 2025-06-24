@@ -11,6 +11,8 @@
 
 ## Papers in Conference & Workshop
 
+* Vitor Pereira, Ahmed Irfan, Vinod Yegneswaran, Nick Feamster, Prateek Mittal and Vitaly Shmatikov. **Position Paper: A Case for Machine-Checked Verification of Circumvention Systems**. Free and Open Communications on the Internet (FOCI), 2025. [PDF](https://ahmed-irfan.github.io/papers/foci25.pdf)
+
 * Enrico Lipparini, Thomas Hader, Ahmed Irfan and Stephane Graham-Lengrand. **Boosting MCSat Modulo Nonlinear Integer Arithmetic via Local Search** (to appear). International Conference on Automated Deduction (CADE), 2025. [PDF](https://ahmed-irfan.github.io/papers/cade25.pdf)
 
 * Thomas Hader, Ahmed Irfan and Stephane Graham-Lengrand. **Decision Heuristics in MCSat** (to appear). International Conference on Computer-Aided Verification (CAV), 2025. [PDF](https://ahmed-irfan.github.io/papers/cav25.pdf)
