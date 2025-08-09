@@ -57,6 +57,7 @@
 
 ## Competitions
 
+* Yices2 at the [SMT-COMP 2025](https://smt-comp.github.io/2025/)
 * Yices2 at the [SMT-COMP 2024](https://smt-comp.github.io/2024/)
 * Yices2 at the [SMT-COMP 2023](https://smt-comp.github.io/2023/)
 * CVC4 at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
