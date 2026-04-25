@@ -1,73 +1,161 @@
+---
+layout: default
+title: Ahmed Irfan
+---
 
-## Research Interests
-* Automated Reasoning
-* SAT and SAT modulo theories (SMT)
-* Formal Methods
-* Model Checking
-* Neural Networks Verification
+<header>
+  <h1>Ahmed Irfan</h1>
+  <p class="bio">
+    I work on automated reasoning, SAT and SMT solving, formal methods,
+    model checking, and neurosymbolic AI. I'm one of the developers of the
+    <a href="https://yices.csl.sri.com">Yices2</a> SMT solver and co-chair of
+    <a href="https://fmcad.forsyte.at/FMCAD25/">FMCAD 2025</a>. I previously
+    worked on neural network verification.
+  </p>
+  <nav class="contact">
+    <a href="https://scholar.google.com/citations?user=rYIFql4AAAAJ&hl=en">Google Scholar</a>
+    <a href="https://dblp.org/pid/149/3835.html">DBLP</a>
+    <a href="https://github.com/ahmed-irfan">GitHub</a>
+    <a href="https://www.linkedin.com/in/ahmed-irfan-phd">LinkedIn</a>
+  </nav>
+</header>
 
+<section>
+  <h2>Publications</h2>
 
-## Publications
-[List of publications](https://ahmed-irfan.github.io/publications)
+  <div class="pub">
+    <div class="year">2025</div>
+    <div>
+      <div class="title">Decision Heuristics in MCSat</div>
+      <div class="authors">Thomas Hader, <span class="me">Ahmed Irfan</span>, Stéphane Graham-Lengrand</div>
+      <div class="venue">Computer-Aided Verification (CAV)</div>
+      <div class="links"><a href="papers/cav25.pdf">PDF</a></div>
+    </div>
+  </div>
 
-[Thesis](https://ahmed-irfan.github.io/thesis)
+  <div class="pub">
+    <div class="year">2025</div>
+    <div>
+      <div class="title">Boosting MCSat Modulo Nonlinear Integer Arithmetic via Local Search</div>
+      <div class="authors">Enrico Lipparini, Thomas Hader, <span class="me">Ahmed Irfan</span>, Stéphane Graham-Lengrand</div>
+      <div class="venue">Automated Deduction (CADE)</div>
+      <div class="links"><a href="papers/cade25.pdf">PDF</a></div>
+    </div>
+  </div>
 
+  <div class="pub">
+    <div class="year">2024</div>
+    <div>
+      <div class="title">The MoXI Model Exchange Tool Suite</div>
+      <div class="authors">Chris Johannsen, Karthik Nukala, Rohit Dureja, <span class="me">Ahmed Irfan</span>, Natarajan Shankar, Cesare Tinelli, Moshe Y. Vardi, Kristin Yvonne Rozier</div>
+      <div class="venue">Computer-Aided Verification (CAV)</div>
+      <div class="links"><a href="papers/cav24.pdf">PDF</a></div>
+    </div>
+  </div>
 
-## Current Projects
+  <div class="pub">
+    <div class="year">2022</div>
+    <div>
+      <div class="title">Counterexample-Guided Prophecy for Model Checking Modulo the Theory of Arrays</div>
+      <div class="authors">Makai Mann, <span class="me">Ahmed Irfan</span>, Alberto Griggio, Oded Padon, Clark Barrett</div>
+      <div class="venue">Logical Methods in Computer Science (LMCS)</div>
+      <div class="links"><a href="papers/lmcs22.pdf">PDF</a></div>
+    </div>
+  </div>
 
-* [BTOR2YICES](https://github.com/ahmed-irfan/btor2yices)
-* [Yices2](https://yices.csl.sri.com): An SMT solver
+  <div class="pub">
+    <div class="year">2021</div>
+    <div>
+      <div class="title">Pono: A Flexible and Extensible SMT-based Model Checker</div>
+      <div class="authors">Makai Mann, <span class="me">Ahmed Irfan</span>, Florian Lonsing, Yahan Yang, Hongce Zhang, Kristopher Brown, Aarti Gupta, Clark Barrett</div>
+      <div class="venue">Computer-Aided Verification (CAV)</div>
+      <div class="links"><a href="papers/cav21b.pdf">PDF</a></div>
+    </div>
+  </div>
 
+  <div class="pub">
+    <div class="year">2018</div>
+    <div>
+      <div class="title">Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions</div>
+      <div class="authors">Alessandro Cimatti, Alberto Griggio, <span class="me">Ahmed Irfan</span>, Marco Roveri, Roberto Sebastiani</div>
+      <div class="venue">ACM Transactions on Computational Logic (TOCL)</div>
+      <div class="links"><a href="papers/tocl18.pdf">PDF</a></div>
+    </div>
+  </div>
 
-## Past Projects
+  <p class="more"><a href="publications.html">All publications →</a></p>
+</section>
 
-* [CVC4](https://cvc4.github.io/): An SMT solver
-* [Kratos](https://es.fbk.eu/tools/kratos): A software analyzer for C programs
-* [LazyBV2Int](https://github.com/yoni206/lazybv2int): An SMT solver for Bit-Vectors
-* [Marabou](https://github.com/NeuralNetworkVerification/Marabou): A neural network verfication tool
-* [MathSAT5](https://mathsat.fbk.eu/): An SMT solver
-* [nuXmv](https://nuxmv.fbk.eu/): A symbolic model checker
-* [Pcassco](http://tools.computational-logic.org/content/riss.php): A parallel SAT solver
-* [Pono](https://github.com/upscale-project/pono): A symbolic model checker
-* [prophic3](https://github.com/makaimann/prophic3): Counterexample guided prophecy for model checking transition systems with arrays
-* Simulink2SMV: A translator for Simulink designs to SMV
-* [Verilog2SMV](https://es.fbk.eu/tools/verilog2smv): A translator for Verilog programs to SMV
+<section>
+  <h2>Software</h2>
 
+  <div class="proj">
+    <div><a href="https://yices.csl.sri.com" class="name">Yices2</a> <span class="desc">— SMT solver (active developer)</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://github.com/ahmed-irfan/btor2yices" class="name">BTOR2YICES</a> <span class="desc">— BTOR2 to Yices2 translator</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://github.com/upscale-project/pono" class="name">Pono</a> <span class="desc">— SMT-based model checker</span><span class="tag">past</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://cvc4.github.io/" class="name">CVC4</a> <span class="desc">— SMT solver</span><span class="tag">past</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://github.com/NeuralNetworkVerification/Marabou" class="name">Marabou</a> <span class="desc">— neural network verification</span><span class="tag">past</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://mathsat.fbk.eu/" class="name">MathSAT5</a> <span class="desc">— SMT solver</span><span class="tag">past</span></div>
+  </div>
+  <div class="proj">
+    <div><a href="https://nuxmv.fbk.eu/" class="name">nuXmv</a> <span class="desc">— symbolic model checker</span><span class="tag">past</span></div>
+  </div>
 
-## Academic Service
+  <details>
+    <summary>More past projects</summary>
+    <div style="margin-top:12px">
+      <div class="proj"><div><a href="https://es.fbk.eu/tools/kratos" class="name">Kratos</a> <span class="desc">— C software analyzer</span></div></div>
+      <div class="proj"><div><a href="https://github.com/yoni206/lazybv2int" class="name">LazyBV2Int</a> <span class="desc">— bit-vector SMT solver</span></div></div>
+      <div class="proj"><div><a href="http://tools.computational-logic.org/content/riss.php" class="name">Pcassco</a> <span class="desc">— parallel SAT solver</span></div></div>
+      <div class="proj"><div><a href="https://github.com/makaimann/prophic3" class="name">prophic3</a> <span class="desc">— CEG prophecy for arrays</span></div></div>
+      <div class="proj"><div><span class="name">Simulink2SMV</span> <span class="desc">— Simulink to SMV translator</span></div></div>
+      <div class="proj"><div><a href="https://es.fbk.eu/tools/verilog2smv" class="name">Verilog2SMV</a> <span class="desc">— Verilog to SMV translator</span></div></div>
+    </div>
+  </details>
+</section>
 
-* Co-Chair of [FMCAD 2025](https://fmcad.forsyte.at/FMCAD25/)
-* PC Member of [ECAI 2025](https://ecai2025.org)
-* PC Member of [SPIN 2025](https://spin-web.github.io/SPIN2025/)
-* PC Member of [SBMF 2024](http://sbmf24.ifes.edu.br)
-* PC Member of [SMT 2024](http://smt-workshop.cs.uiowa.edu/2024/index.shtml)
-* PC Member of [FM 2024](https://www.fm24.polimi.it)
-* PC Member of [FMCAD 2024](https://fmcad.org/FMCAD24/)
-* PC Member of [SBMF 2023](https://sbmf23.ufam.edu.br)
-* PC Member of [SMT 2023](https://smt-workshop.cs.uiowa.edu/2023/index.shtml)
-* PC Member of [VSTTE 2023](https://homepage.cs.uiowa.edu/~ajreynol/VSTTE2023/)
-* PC Member of [TACAS-AE 2023](https://tacas.info/artifacts-23.php)
-* PC Member of [FMCAD 2022](https://fmcad.org/FMCAD22/)
-* Co-organizer of [NFM-AI-SAFETY 2020](https://sites.google.com/stanford.edu/nfm-ai-safety-20/)
-* PC Member of [NFM 2020](https://ti.arc.nasa.gov/events/nfm-2020/)
-* PC Member of [PAAR 2020](http://paar2020.gforge.inria.fr/)
-* PC Member of [SC2 2020](http://www.sc-square.org/CSA/workshop5.html)
-* PC Member of [TACAS-AE 2020](https://www.etaps.org/2020/tacas)
+<section>
+  <h2>Service</h2>
+  <ul class="compact">
+    <li><span class="role-text">Co-Chair, <a href="https://fmcad.forsyte.at/FMCAD25/">FMCAD</a></span><span class="yr">2025</span></li>
+    <li><span class="role-text">PC Member, <a href="https://ecai2025.org">ECAI</a></span><span class="yr">2025</span></li>
+    <li><span class="role-text">PC Member, <a href="https://spin-web.github.io/SPIN2025/">SPIN</a></span><span class="yr">2025</span></li>
+    <li><span class="role-text">PC Member, SBMF · SMT · FM · FMCAD</span><span class="yr">2024</span></li>
+  </ul>
+  <details>
+    <summary>Earlier service</summary>
+    <ul class="compact" style="margin-top:12px">
+      <li><span class="role-text">PC Member, SBMF · SMT · VSTTE · TACAS-AE</span><span class="yr">2023</span></li>
+      <li><span class="role-text">PC Member, FMCAD</span><span class="yr">2022</span></li>
+      <li><span class="role-text">Co-organizer, NFM-AI-SAFETY · PC Member, NFM · PAAR · SC2 · TACAS-AE</span><span class="yr">2020</span></li>
+    </ul>
+  </details>
+</section>
 
-
-## Competitions
-
-* Yices2 at the [SMT-COMP 2025](https://smt-comp.github.io/2025/)
-* Yices2 at the [SMT-COMP 2024](https://smt-comp.github.io/2024/)
-* Yices2 at the [SMT-COMP 2023](https://smt-comp.github.io/2023/)
-* CVC4 at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
-* ic3ia at the [CHC-COMP 2020](https://chc-comp.github.io/2020/)
-* lazybv2int at the [SMT-COMP 2020](https://smt-comp.github.io/2020/)
-* Pono at the [Hardware Model Checking Competition 2020](http://fmv.jku.at/hwmcc20/)
-* Prophic3 at the [CHC-COMP 2020](https://chc-comp.github.io/2020/)
-* Cosa2 at the [Hardware Model Checking Competition 2019](http://fmv.jku.at/hwmcc19/)
-* MathSAT5 at the [SMT-COMP 2019](https://smt-comp.github.io/2019/)
-* CLAS at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
-* Pcassco at the [SAT Competition 2014](http://www.satcompetition.org/2014/)
-* Pcassco at the [SAT Competition 2013](http://www.satcompetition.org/2013/)
-
+<section>
+  <h2>Competitions</h2>
+  <ul class="compact">
+    <li><span class="role-text"><a href="https://smt-comp.github.io/2025/">Yices2 at SMT-COMP</a></span><span class="yr">2025</span></li>
+    <li><span class="role-text"><a href="https://smt-comp.github.io/2024/">Yices2 at SMT-COMP</a></span><span class="yr">2024</span></li>
+    <li><span class="role-text"><a href="https://smt-comp.github.io/2023/">Yices2 at SMT-COMP</a></span><span class="yr">2023</span></li>
+  </ul>
+  <details>
+    <summary>Earlier entries</summary>
+    <ul class="compact" style="margin-top:12px">
+      <li><span class="role-text">CVC4, lazybv2int, Pono, Prophic3, ic3ia (SMT-COMP, HWMCC, CHC-COMP)</span><span class="yr">2020</span></li>
+      <li><span class="role-text">Cosa2 (HWMCC), MathSAT5 (SMT-COMP)</span><span class="yr">2019</span></li>
+      <li><span class="role-text">CLAS, Pcassco (SAT Competition)</span><span class="yr">2014</span></li>
+      <li><span class="role-text">Pcassco (SAT Competition)</span><span class="yr">2013</span></li>
+    </ul>
+  </details>
+</section>

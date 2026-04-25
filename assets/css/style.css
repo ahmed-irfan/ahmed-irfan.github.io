@@ -1,0 +1,200 @@
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #6b7280;
+  --rule: #e5e7eb;
+  --accent: #2563a8;
+  --accent-hover: #1e4a82;
+  --tag-bg: #f3f4f6;
+  --tag-fg: #6b7280;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115;
+    --fg: #e6e6e6;
+    --muted: #9099a8;
+    --rule: #232730;
+    --accent: #79a8d8;
+    --accent-hover: #a4c4e2;
+    --tag-bg: #1a1d24;
+    --tag-fg: #9099a8;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 64px 24px 96px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 120ms ease, color 120ms ease;
+}
+a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: currentColor;
+}
+
+h1 {
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin: 0 0 4px;
+  letter-spacing: -0.01em;
+}
+
+.bio { margin: 0 0 18px; }
+
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin: 0 0 56px;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+.contact a { color: var(--muted); }
+.contact a:hover { color: var(--fg); }
+
+h2 {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin: 56px 0 20px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--rule);
+}
+
+h2.year-header {
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: -0.005em;
+  color: var(--fg);
+  margin: 48px 0 16px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Publications */
+.pub {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 20px;
+  margin-bottom: 22px;
+}
+.pub .year {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+  padding-top: 2px;
+}
+.pub .title {
+  font-weight: 600;
+  color: var(--fg);
+}
+.pub .authors {
+  font-size: 0.95rem;
+  color: var(--fg);
+  margin-top: 2px;
+}
+.pub .authors .me { font-weight: 600; }
+.pub .venue {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-top: 2px;
+}
+.pub .links {
+  font-size: 0.85rem;
+  margin-top: 4px;
+  display: flex;
+  gap: 12px;
+}
+
+.more {
+  margin-top: 8px;
+  font-size: 0.95rem;
+}
+
+/* Projects */
+.proj {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4px;
+  margin-bottom: 18px;
+}
+.proj .name { font-weight: 600; }
+.proj .desc { color: var(--muted); font-size: 0.95rem; }
+
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--tag-fg);
+  background: var(--tag-bg);
+  padding: 2px 8px;
+  border-radius: 999px;
+  margin-left: 8px;
+  vertical-align: 1px;
+}
+
+/* Compact list (service / competitions) */
+.compact {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.compact li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 0.95rem;
+}
+.compact li:last-child { border-bottom: none; }
+.compact .role-text { color: var(--fg); }
+.compact .yr { color: var(--muted); font-variant-numeric: tabular-nums; }
+
+details > summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 12px;
+  list-style: none;
+}
+details > summary::-webkit-details-marker { display: none; }
+details > summary::before { content: "+ "; }
+details[open] > summary::before { content: "− "; }
+
+.back {
+  display: inline-block;
+  margin-bottom: 32px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.back:hover { color: var(--fg); }
+
+@media (max-width: 540px) {
+  main { padding: 40px 20px 64px; }
+  h1 { font-size: 1.6rem; }
+  .pub { grid-template-columns: 1fr; gap: 4px; }
+  .pub .year { padding-top: 0; font-size: 0.85rem; }
+}
