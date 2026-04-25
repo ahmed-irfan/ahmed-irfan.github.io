@@ -1,0 +1,51 @@
+# Academic service.
+# Two groups: `recent` (shown by default) and `earlier` (under details).
+# Each entry:
+#   year   : integer
+#   role   : string (e.g. "PC Member", "Co-Chair", "Co-organizer")
+#   venues : list of { name, url? } -- multiple venues are joined with " · "
+
+recent:
+  - year: 2025
+    role: Co-Chair
+    venues:
+      - { name: FMCAD, url: "https://fmcad.forsyte.at/FMCAD25/" }
+  - year: 2025
+    role: PC Member
+    venues:
+      - { name: ECAI, url: "https://ecai2025.org" }
+  - year: 2025
+    role: PC Member
+    venues:
+      - { name: SPIN, url: "https://spin-web.github.io/SPIN2025/" }
+  - year: 2024
+    role: PC Member
+    venues:
+      - { name: SBMF }
+      - { name: SMT }
+      - { name: FM }
+      - { name: FMCAD }
+
+earlier:
+  - year: 2023
+    role: PC Member
+    venues:
+      - { name: SBMF }
+      - { name: SMT }
+      - { name: VSTTE }
+      - { name: TACAS-AE }
+  - year: 2022
+    role: PC Member
+    venues:
+      - { name: FMCAD }
+  - year: 2020
+    role: Co-organizer
+    venues:
+      - { name: NFM-AI-SAFETY, url: "https://sites.google.com/stanford.edu/nfm-ai-safety-20/" }
+  - year: 2020
+    role: PC Member
+    venues:
+      - { name: NFM }
+      - { name: PAAR }
+      - { name: SC2 }
+      - { name: TACAS-AE }

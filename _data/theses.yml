@@ -1,0 +1,28 @@
+# Theses, newest first.
+# Fields:
+#   year        : integer
+#   title       : string
+#   byline      : kind of thesis (e.g. "Ph.D. Thesis")
+#   venue       : institution
+#   links       : list of { label, url }
+
+- year: 2018
+  title: "Incremental Linearization for Satisfiability and Verification Modulo Nonlinear Arithmetic and Transcendental Functions"
+  byline: "Ph.D. Thesis"
+  venue: "University of Trento and Fondazione Bruno Kessler"
+  links:
+    - { label: PDF, url: papers/thesis.pdf }
+
+- year: 2013
+  title: "State-of-the-Art Cooperative Parallel SAT Solving"
+  byline: "M.Sc. Thesis"
+  venue: "Technische Universität Dresden"
+  links:
+    - { label: PDF, url: papers/ms-thesis.pdf }
+
+- year: 2012
+  title: "Search Space Partitioning with Lookahead"
+  byline: "M.Sc. Project Report"
+  venue: "Technische Universität Dresden"
+  links:
+    - { label: PDF, url: papers/ms-project-report.pdf }

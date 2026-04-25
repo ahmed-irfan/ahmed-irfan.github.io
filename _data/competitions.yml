@@ -1,0 +1,14 @@
+# Competition entries.
+# Two groups: `recent` (shown by default) and `earlier` (under details).
+# Each entry: year, label, optional url
+
+recent:
+  - { year: 2025, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2025/" }
+  - { year: 2024, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2024/" }
+  - { year: 2023, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2023/" }
+
+earlier:
+  - { year: 2020, label: "CVC4, lazybv2int, Pono, Prophic3, ic3ia (SMT-COMP, HWMCC, CHC-COMP)" }
+  - { year: 2019, label: "Cosa2 (HWMCC), MathSAT5 (SMT-COMP)" }
+  - { year: 2014, label: "CLAS, Pcassco (SAT Competition)" }
+  - { year: 2013, label: "Pcassco (SAT Competition)" }

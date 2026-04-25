@@ -1,0 +1,24 @@
+# Software projects.
+# Two groups: `visible` (shown by default on homepage) and `hidden`
+# (collapsed under "More past projects"). Each entry:
+#   name : string
+#   url  : string (optional)
+#   desc : string
+#   past : true if the work is no longer active
+
+visible:
+  - { name: Yices2,      url: "https://yices.csl.sri.com",                                 desc: "SMT solver (active developer)" }
+  - { name: BTOR2YICES,  url: "https://github.com/ahmed-irfan/btor2yices",                 desc: "BTOR2 to Yices2 translator" }
+  - { name: Pono,        url: "https://github.com/upscale-project/pono",                   desc: "SMT-based model checker", past: true }
+  - { name: CVC4,        url: "https://cvc4.github.io/",                                   desc: "SMT solver", past: true }
+  - { name: Marabou,     url: "https://github.com/NeuralNetworkVerification/Marabou",      desc: "neural network verification", past: true }
+  - { name: MathSAT5,    url: "https://mathsat.fbk.eu/",                                   desc: "SMT solver", past: true }
+  - { name: nuXmv,       url: "https://nuxmv.fbk.eu/",                                     desc: "symbolic model checker", past: true }
+
+hidden:
+  - { name: Kratos,        url: "https://es.fbk.eu/tools/kratos",                          desc: "C software analyzer", past: true }
+  - { name: LazyBV2Int,    url: "https://github.com/yoni206/lazybv2int",                   desc: "bit-vector SMT solver", past: true }
+  - { name: Pcassco,       url: "http://tools.computational-logic.org/content/riss.php",   desc: "parallel SAT solver", past: true }
+  - { name: prophic3,      url: "https://github.com/makaimann/prophic3",                   desc: "CEG prophecy for arrays", past: true }
+  - { name: Simulink2SMV,                                                                  desc: "Simulink to SMV translator", past: true }
+  - { name: Verilog2SMV,   url: "https://es.fbk.eu/tools/verilog2smv",                     desc: "Verilog to SMV translator", past: true }

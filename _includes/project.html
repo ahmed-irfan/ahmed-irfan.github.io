@@ -1,0 +1,3 @@
+<div class="proj">
+  <div>{% if include.proj.url %}<a href="{{ include.proj.url }}" class="name">{{ include.proj.name }}</a>{% else %}<span class="name">{{ include.proj.name }}</span>{% endif %} <span class="desc">— {{ include.proj.desc }}</span>{% if include.proj.past %}<span class="tag">past</span>{% endif %}</div>
+</div>
