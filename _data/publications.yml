@@ -7,6 +7,13 @@
 #   selected : true to feature on the homepage
 #   links    : list of { label, url }
 
+- year: 2026
+  title: "Pono 2.0: A Versatile SMT-Based Model Checker for Safety and Liveness"
+  authors: ["Áron Ricardo Perez-Lopez", "Po-Chun Chien", "Florian Lonsing", "Samantha Archer", "Ahmed Irfan", "Clark Barrett"]
+  venue: "Formal Methods (FM)"
+  links:
+    - { label: PDF, url: papers/fm26.pdf }
+
 - year: 2025
   title: "Decision Heuristics in MCSat"
   authors: ["Thomas Hader", "Ahmed Irfan", "Stéphane Graham-Lengrand"]
