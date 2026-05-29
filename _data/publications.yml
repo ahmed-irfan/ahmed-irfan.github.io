@@ -114,7 +114,6 @@
   title: "Pono: A Flexible and Extensible SMT-based Model Checker"
   authors: ["Makai Mann", "Ahmed Irfan", "Florian Lonsing", "Yahan Yang", "Hongce Zhang", "Kristopher Brown", "Aarti Gupta", "Clark Barrett"]
   venue: "Computer-Aided Verification (CAV)"
-  selected: true
   links:
     - { label: PDF, url: papers/cav21b.pdf }
 
