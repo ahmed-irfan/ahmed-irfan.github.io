@@ -23,7 +23,7 @@ title: Ahmed Irfan
 </header>
 
 <section>
-  <h2>Publications</h2>
+  <h2>Selected Publications</h2>
   {% assign selected_pubs = site.data.publications | where: "selected", true %}
   {% for pub in selected_pubs %}{% include pub.html pub=pub %}{% endfor %}
   <p class="more"><a href="publications.html">All publications →</a></p>
