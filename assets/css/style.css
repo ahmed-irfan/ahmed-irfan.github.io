@@ -120,6 +120,12 @@ h2.year-header {
   color: var(--muted);
   margin-top: 2px;
 }
+.pub .award {
+  font-size: 0.85rem;
+  color: var(--accent);
+  font-weight: 600;
+  margin-top: 2px;
+}
 .pub .links {
   font-size: 0.85rem;
   margin-top: 4px;

@@ -6,8 +6,10 @@ title: Ahmed Irfan
 <header>
   <h1>Ahmed Irfan</h1>
   <p class="bio">
-    I work on automated reasoning, SAT and SMT solving, formal methods,
-    model checking, and neurosymbolic AI. I'm one of the developers of the
+    I am a Principal Research Scientist at <a href="https://codemetal.ai">Code Metal</a>,
+    working on neurosymbolic AI for code transpilation. My research interests include
+    automated reasoning, SAT and SMT solving, formal methods, and model checking.
+    I'm one of the developers of the
     <a href="https://yices.csl.sri.com">Yices2</a> SMT solver and co-chair of
     <a href="https://fmcad.forsyte.at/FMCAD25/">FMCAD 2025</a>. I previously
     worked on neural network verification.
