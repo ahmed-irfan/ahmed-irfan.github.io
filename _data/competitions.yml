@@ -3,6 +3,7 @@
 # Each entry: year, label, optional url
 
 recent:
+  - { year: 2026, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2026/" }
   - { year: 2025, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2025/" }
   - { year: 2024, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2024/" }
   - { year: 2023, label: "Yices2 at SMT-COMP", url: "https://smt-comp.github.io/2023/" }
