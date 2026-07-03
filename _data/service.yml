@@ -6,6 +6,14 @@
 #   venues : list of { name, url? } -- multiple venues are joined with " · "
 
 recent:
+  - year: 2027
+    role: PC Member
+    venues:
+      - { name: DATE, url: "https://www.date-conference.com" }
+  - year: 2026
+    role: PC Member
+    venues:
+      - { name: SBMF, url: "https://sbmf2026.github.io" }
   - year: 2025
     role: Co-Chair
     venues:
@@ -14,9 +22,6 @@ recent:
     role: PC Member
     venues:
       - { name: ECAI, url: "https://ecai2025.org" }
-  - year: 2025
-    role: PC Member
-    venues:
       - { name: SPIN, url: "https://spin-web.github.io/SPIN2025/" }
   - year: 2024
     role: PC Member
